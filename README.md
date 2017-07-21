@@ -6,4 +6,4 @@ You must answer the question correctly in order to unlock the keg and pour beer.
 
 This is written in Node.js
 
-Must download node.js and attach node modules in order to execute on Alexa. See the Amazon website for more details.
+Must download node.js and attach node modules in order to execute with Alexa. See the Amazon website for more details.
